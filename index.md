@@ -8,18 +8,18 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Next-Gen Sequencing Analysis</h2>
-  <p class="post-excerpt">We analyse all types of next-generation sequencing data from RNA-seq and single cell RNA-seq to variant sequencing (exome or whole genome), to ChIP-seq or bisulfite sequencing.</p>
+  <h2 class="post-title">Shiny Web App Development</h2>
+  <p class="post-excerpt">We build and enhance shiny apps that simplify complex statisical processes into user-friendly data products with dynamic data visualizations.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Functional Analysis</h2>
-  <p class="post-excerpt">We can help you make sense of your results by placing them in biological context through annotation and integration with data sources.</p>
+  <h2 class="post-title">Predictive Analytics</h2>
+  <p class="post-excerpt">We can help you develop your predicitve models ranging from classic logistic regression all the way to black-box deep learning algorithms.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Bioinformatics Infrastructure</h2>
-  <p class="post-excerpt">We drive development of <a href="https://bcbio-nextgen.readthedocs.io">bcbio-nextgen</a>, a framework for the automated, scaleable, reproducible analysis of major next-generation sequencing data types.</p>
+  <h2 class="post-title">Data Science Architecture</h2>
+  <p class="post-excerpt">We drive development of popular R packages that synthesis messy data into tidy data and craft tools which aid in the developer experience (DX) of R programming. </p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
