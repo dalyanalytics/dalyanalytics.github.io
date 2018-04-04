@@ -4,8 +4,6 @@ title: "About"
 ---
 
 
-#### Staff
-
 <div class="tiles">
 
 <div class="tile">
@@ -26,9 +24,3 @@ title: "About"
 
 <div style="clear: left;"></div>
 
-
-### Working with us
-
-- Process: Initial consultation via phone or [web conference](https://appear.in/consultr)
-
-- Working stlye values: transparency, empathy, curiosity
