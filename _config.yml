@@ -5,7 +5,7 @@ description: "Bioinformatics Analysis for the Harvard Community"
 logo: site_logo_120x120.gif
 teaser: teaser_400x250.gif
 locale: en_US
-url: http://hbc.github.io
+url: https://consultr.github.io/home/
 
 # Jekyll configuration
 
@@ -22,11 +22,11 @@ gems:
 
 # Site owner
 owner:
-  name: Harvard Chan Bioinformatics Core
-  web: http://hbc.github.io 
-  email: bioinformatics@hsph.harvard.edu
+  name: ConsultR
+  web: https://consultr.github.io/home/ 
+  email: jasmine.dumas@gmail.com
   twitter: 
-  bio: "Bioinfomatics Analysis for the Harvard Community"
+  bio: "A Consultancy in R Programming and Data Analysis"
   avatar: bio-photoi_160x160.jpg # 160x160 px image for author byline
   google:
     plus:
