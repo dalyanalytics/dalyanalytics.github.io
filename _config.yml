@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Home"
-description: "Bioinformatics Analysis for the Harvard Community"
+title: "ConsultR"
+description: "A Consultancy in R Programming and Data Analytics."
 logo: site_logo_120x120.gif
 teaser: teaser_400x250.gif
 locale: en_US
@@ -26,13 +26,13 @@ owner:
   web: https://consultr.github.io/home/ 
   email: jasmine.dumas@gmail.com
   twitter: 
-  bio: "A Consultancy in R Programming and Data Analysis"
+  bio: "A Consultancy in R Programming and Data Analytics"
   avatar: bio-photoi_160x160.jpg # 160x160 px image for author byline
   google:
     plus:
     ad-client:
     ad-slot:
-    google_analytics: UA-70692942-1        
+    google_analytics: #UA-70692942-1        
   disqus-shortname:
 
 
