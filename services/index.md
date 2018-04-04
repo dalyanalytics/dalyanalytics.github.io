@@ -4,30 +4,32 @@ title: "Services"
 ---
 
 
-Core staff can handle all your bioinformatics needs in next-generation sequence analysis, from data retrieval and management, storage, quality control, analysis and writeup. We follow best practices and re-use public workflows and tools wherever possible, but are happy to adapt existing methods and develop new solutions where required. While we try to offer support in most areas of computational biology HBC’s expertise is focused on two core areas:
+ConsultR consultants can elevate your data analytics capabilties, expand your team's knowledge with cutting edge machine learning techniques and optimize your effciency by leveraging the most popular programming language for data science, **R**. We have three core services and the potential availability to conduct small corporate trainings. We utilize open-source software tools RStudio, and GitHub to offer transparency and reproducible data analysis.
  
-![](/images/services.jpg) 
  
-#### 1. Next generation sequencing analysis: 
+#### 1. Shiny web app development: 
 
-Core analysts have extensive experience in [managing and analyzing sequencing data](https://bcbio-nextgen.readthedocs.org/), including:
+_Shiny is a web application framework for R, requiring no advanced knowledge of web development tools._
 
-- whole genome and exome sequencing (quality control, mapping, re-alignment, variant calls, prioritization), 
-- RNA-seq (quantification and _de novo_ transcriptome analysis), 
-- small RNA-seq (i.e. miRNA analysis),
-- single-cell RNA-seq, 
-- genome assembly (reference guided and _de novo_),  
-- ChIP-seq and 
-- bisulfite sequencing 
+We have experience developing and conceptualizing shiny apps for various industries including: 
+- [Bioinformatics](https://github.com/jasdumas/shinyGEO)
+- [Education](https://ct-data-collaborative.github.io/shiny-server/index.html)
+- [Public Safety](https://jasminedumas.shinyapps.io/hartford-crime/)
+- [Real Estate](https://jasdumas.github.io/tech-short-papers/flex-realestate.html)
 
-We can also provide support in the design and and analysis of your customized NGS experiment.
+#### 2. Predictive analytics:
 
-#### 2. Functional analysis:
+_The analysis of data is a process of exploring, cleaning, transforming, and modeling data with the goal of discovering useful information, adding business value, and supporting decision-making._
 
-We can provide a path from genes to function by delivering extensive functional annotation, prioritizing new markers and developing testable hypotheses for future experiments. We test for functional information using different gene set enrichment approaches (using Gene Ontology, pathway databases as well as curated and generic gene sets), provide context by integrating your data with public resources such as [GEO](http://www.ncbi.nlm.nih.gov/geo/) and [TCGA](https://cancergenome.nih.gov/), and explore the biological interaction space in co-expression and high-throughput interaction data sets using network analysis techniques.
+We can provide end-to-end data science services with a enhasis on predicitve modeling and machine learning. Let us assist you in turning unstructured text data into actionable insights by gleaning implicit sentiment from surveys. Looking to improve your model's performance, let us advise on **feature engineering, pre-processing, sampling techniques and evaluation metrics**.
 
 
-#### 3. Grant and manuscript support:
+#### 3. Data Science Architecture:
 
-We can support grant proposals and review manuscripts on short notice. The Core’s team has extensive experience in providing standard descriptions and implementing best practices in data management, user and security handling, quality controls and data dissemination to the scientific community that fulfill NIH and NSF requirements and simplify the process of publishing your manuscript. We are available to help you with your data submisison to standardized databases such as the [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) and the [Short Read Archive](https://www.ncbi.nlm.nih.gov/sra).
+> "When you’ve written the same code 3 times, write a function. When you’ve given the same in-person advice 3 times, write a blog post" - Dave Robinson ([@drob](https://twitter.com/drob/status/928447584712253440))
+
+We can support the development of transitioning inefficient scripts into functions for research manuscripts and R packages. Let us develop and review your submission to The Comprehensive R Archive Network (CRAN), the central repository for R software to ensure timely public release of your open source tooling. 
+
+
+
 
