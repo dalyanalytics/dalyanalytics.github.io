@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Data Science Architecture</h2>
-  <p class="post-excerpt">We drive development of <a href="https://github.com/jasdumas/shinyLP">popular R packages</a> that synthesis messy data into tidy data and craft tools which aid in the developer experience (DX) of R programming. </p>
+  <p class="post-excerpt">We drive development of <a href="https://github.com/jasdumas/shinyLP">popular R packages</a> that synthesize messy data into tidy data and craft tools which aid in the developer experience (DX) of R programming. </p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
