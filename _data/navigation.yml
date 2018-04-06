@@ -3,14 +3,14 @@
 - title: About
   url: /about/
   excerpt: "More about us"
-  image: teaser_400x250.gif
+  image: nasa1.jpg
 
 - title: Services
   url: /services/
   excerpt: "What we do"
-  image: teaser_400x250.gif
+  image: nasa1.jpg
 
 - title: Contact
   url: /contact/
   excerpt: "Get in touch with us"
-  image: teaser_400x250.gif
+  image: nasa1.jpg
