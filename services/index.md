@@ -23,7 +23,7 @@ Let us assist you making your app user-friendly with advanced bootstrap componen
 
 > The analysis of data is a process of exploring, cleaning, transforming, and modeling data with the goal of discovering useful information, adding business value, and supporting decision-making.
 
-We can provide end-to-end data science services with a enhasis on predicitve modeling and machine learning. Let us assist you in turning unstructured text data into actionable insights by gleaning implicit sentiment from surveys. Looking to improve your model's performance, let us advise on **feature engineering, pre-processing, sampling techniques and evaluation metrics**.
+We can provide end-to-end data science services with a emphasis on predictive modeling and machine learning. Let us assist you in turning unstructured text data into actionable insights by gleaning implicit sentiment from surveys. Looking to improve your model's performance, let us advise on **feature engineering, pre-processing, sampling techniques and evaluation metrics**.
 
 
 #### 3. Data Science Architecture:
