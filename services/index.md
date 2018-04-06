@@ -4,7 +4,7 @@ title: "Services"
 ---
 
 
-ConsultR consultants can elevate your data analytics capabilties, expand your team's knowledge with cutting edge machine learning techniques and optimize your effciency by leveraging the most popular programming language for data science, **R**. We have three core services and the potential availability to conduct small corporate trainings. We utilize open-source software tools RStudio, and GitHub to offer transparency and reproducible data analysis.
+ConsultR consultants can elevate your data analytics capabilities, expand your team's knowledge with cutting edge machine learning techniques and optimize your efficiency by leveraging the most popular programming language for data science, **R**. We have three core services and the potential availability to conduct small corporate training. We utilize open-source software tools RStudio, Git and GitHub to offer transparency and reproducible data analysis.
  
  
 #### 1. Shiny web app development: 
