@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "ConsultR"
+title:  "ConsultR Labs"
 description: "A Consultancy in R Programming and Data Analytics."
 logo: site_logo_120x120.gif
 teaser: teaser_400x250.gif
@@ -22,7 +22,7 @@ gems:
 
 # Site owner
 owner:
-  name: ConsultR
+  name: ConsultR Labs
   web: https://consultr.github.io/home/ 
   email: jasmine.dumas@gmail.com
   twitter: 
