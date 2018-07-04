@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Predictive Analytics</h2>
-  <p class="post-excerpt">We can help you develop your predicitve models ranging from classic logistic regression all the way to black-box deep learning algorithms.</p>
+  <p class="post-excerpt">We can help you develop your predictive models ranging from classic logistic regression all the way to black-box deep learning algorithms.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
