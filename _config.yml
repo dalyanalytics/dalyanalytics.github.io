@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:  "ConsultR Labs"
-description: "A Consultancy in R Programming and Data Analytics."
+title:  "Daly Analytics"
+description: "A Connecticut-based Data Analytics Consultancy"
 logo: site_logo_120x120.gif
 teaser: teaser_400x250.gif
 locale: en_US
-url: https://consultr.github.io
+url: https://dalyanalytics.github.io
 
 # Jekyll configuration
 
@@ -22,8 +22,8 @@ gems:
 
 # Site owner
 owner:
-  name: ConsultR Labs
-  web: https://consultr.github.io/home/ 
+  name: Daly Analytics
+  web: https://dalyanalytics.github.io/home/ 
   email: jasmine.dumas@gmail.com
   twitter: 
   bio: "A Consultancy in R Programming and Data Analytics"
