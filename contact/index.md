@@ -1,7 +1,10 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contact Us"
 ---
 
-The best way to contact us for general enquiries is by <a href="mailto:jasmine.dumas@gmail.com?subject=Consultr Consulting Inquiry&cc=jenna.m.daly@gmail.com"><b>emailing us</b></a>. Generally, you can expect a response within 24 hours where we can start to assess your needs and setup a [web conference](https://appear.in/consultr). 
+The best way to contact us for an initial project discovery consultation is to book an appointment using scheduler platform: https://cal.com/jasminedaly
+
+
+<iframe src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://cal.com/jasminedaly)" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
