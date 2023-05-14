@@ -19,6 +19,12 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
 
+- theme: minima
++ remote_theme: jekyll/minima
+
+  plugins:
++ - jekyll-remote-theme
+
 
 # Site owner
 owner:
