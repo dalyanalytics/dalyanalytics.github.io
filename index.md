@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Predictive Analytics & ML</h2>
-  <p class="post-excerpt">We research and implement your predictive & forecasting models, ranging from classic logistic regression to modern machine learning algorithms.</p>
+  <p class="post-excerpt">We research and implement predictive & forecasting models, ranging from classic logistic regression to modern machine learning algorithms.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
