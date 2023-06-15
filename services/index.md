@@ -4,30 +4,38 @@ title: "Services"
 ---
 
 
-Daly Analytics can elevate your data science capabilities, enable your team to generate better insights and increase your efficiency by acting as a fractional Head of Data Science. We leverage the most popular programming language and web framework for data science, **R Programming** and **Shiny**. We have three core services and the potential availability to conduct in-house or virtual corporate training to teach technical and non-technical folks. 
- 
+Daly Analytics can elevate your data science capabilities and efficency by enabling your team to generate actionable business and product insights. We leverage the most popular statistical programming language and web framework for data science, **R Programming** and **Shiny**. 
+
+We offer three core services and have availability to conduct in-house or virtual corporate training for introductory data analytics with R programming. 
  
 #### ⚡️ Shiny web app development 
 
-> Shiny is a web application framework for R, requiring no advanced knowledge of web development tools.
+Daly Analytics can improve shiny application UI/UX for greater usability for technical & non-technical users, implement more graceful app error handling, and bring clarity to your data visualizations with interactive reactive widgets. We have extensive experience developing and mantaining shiny apps for various industries and use-cases. Here are a few examples projects: 
 
-We have experience developing and mantaining shiny apps for various industries including but not limited to: 
-- [Bioinformatics](https://github.com/jasdumas/shinyGEO)
-- [Public Safety](https://jasminedumas.shinyapps.io/hartford-crime/)
-- [Real Estate](https://jasdumas.github.io/tech-short-papers/flex-realestate.html)
-- Edge Cloud Traffic
-- Finance
-
-Let us assist you by improving app layouts for greater usability, implementing more graceful error handling, and supercharging your graphs into dynamic interactive visualizations with reactive widgets.
-
-#### 🔮 Predictive analytics
-
-We can provide end-to-end data science services with a emphasis on predictive modeling and machine learning. Let us assist you in turning unstructured text data into actionable insights by gleaning implicit sentiment from surveys. Looking to improve your model's performance, let us advise on **feature engineering, pre-processing, sampling techniques and evaluation metrics**.
+- [Survival and Differential Expression Analysis of Gene Expression Data](https://gdancik.shinyapps.io/shinyGEO/)
+- [Leveraging the Keras API for Deep Learning Image Classification](https://dalyanalytics.shinyapps.io/image_clf/)
+- [Interactive US County Population Map with Leaflet](https://dalyanalytics.shinyapps.io/Choropleth_Zipcodes/)
 
 
-#### 📦 Data Science architecture
+#### 🔮 Predictive Analytics & ML
 
-We can support the development of transitioning monolith R scripts into functions into R packages. Let us develop and review your submission to The Comprehensive R Archive Network (CRAN), the central repository for R software to ensure timely public release of your open source tooling. 
+We can provide end-to-end data science and analytics services which includes: 
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning/Pre-processing
+- Feature Engineering
+- Building Forecasting & Machine Learning Models
+- Improving Model Performance and Metric Selection
+- Transforming Analyses into Reproducible Scripts & Shiny Applications. 
+
+
+#### 📦 Data Science Architecture
+
+We can support and drive the development of transitioning large R scripts into functions and R packages for internal use. Let us develop and review your submission to The Comprehensive R Archive Network ([CRAN](https://cran.r-project.org/)), the central repository for R software to ensure timely public release of your open source tooling. We have authored & maintain several popular R packages currently available on CRAN:
+
+- [`shinyLP` provides functions that wrap HTML Bootstrap code to enable the design and layout of informative landing home pages for Shiny applications](https://github.com/jasdumas/shinyLP)  [![](http://cranlogs.r-pkg.org/badges/grand-total/shinyLP)](https://cran.r-project.org/package=shinyLP)
+  
+- [`ttbbeer` provides datasets for materials used at U.S. breweries and historical tax rates](https://github.com/jasdumas/ttbbeer)  [![](http://cranlogs.r-pkg.org/badges/grand-total/ttbbeer)](https://cran.r-project.org/package=ttbbeer)
 
 
 
